@@ -3,8 +3,14 @@
 > ✨ Proyecto final de **Programación Avanzada**  
 > 📆 Año: 2025  
 > 🎓 Universidad: *Universidad Técnica Particular de Loja*
+> ## 👨‍💻 Autores
+
+- 💻 *[Suanny Mayon, Rafaella Palacios, Esther Méndez]*  
+- 🤝 Proyecto en equipo para **Programación Avanzada**  
+- 📅 Segundo Bimestre 2025
 
 ---
+
 
 ## 🧠 ¿Qué hicimos?
 
@@ -55,14 +61,6 @@
 - ¿Cuáles son las actividades con más negocios? 🏢
 
 Consulta los scripts en [📁 Script](https://github.com/Esthermendez5/Proyecto-Bimestral/blob/849f7349491566716fc3f6fb51f8fdf46f88951b/Script) para ver más ejemplos.
-
----
-
-## 👨‍💻 Autores
-
-- 💻 *[Suanny Mayon, Rafaella Palacios, Esther Méndez]*  
-- 🤝 Proyecto en equipo para **Programación Avanzada**  
-- 📅 Segundo Bimestre 2025
 
 ---
 
