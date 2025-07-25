@@ -33,7 +33,7 @@
 - 🛒 **Ventas y Compras**
 - 🧾 **Contribuyentes**
 
-📌 ¡Revisa el diagrama en la carpeta  [📖Modelo](Imagenes/modelo Logico Relacional.jpg)!
+📌 ¡Revisa el diagrama en la carpeta  [📖Modelo](https://github.com/Esthermendez5/Proyecto-Bimestral/blob/43c0590113f9ae03d0991d8a3e63e8cd81a6232e/Imagenes/Modelo%20Logico%20Relacional.jpg)
 
 ---
 
