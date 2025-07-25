@@ -33,7 +33,7 @@
 - 🛒 **Ventas y Compras**
 - 🧾 **Contribuyentes**
 
-📌 ¡Revisa el diagrama en la carpeta  [📖Script](Script)!
+📌 ¡Revisa el diagrama en la carpeta  [📖Modelo](Script)!
 
 ---
 
