@@ -54,7 +54,7 @@
 - ¿Qué subgrupo de impuesto se repite más? 💰
 - ¿Cuáles son las actividades con más negocios? 🏢
 
-Consulta los scripts en [📁](https://github.com/Esthermendez5/Proyecto-Bimestral/blob/849f7349491566716fc3f6fb51f8fdf46f88951b/Script) para ver más ejemplos.
+Consulta los scripts en [📁 Script](https://github.com/Esthermendez5/Proyecto-Bimestral/blob/849f7349491566716fc3f6fb51f8fdf46f88951b/Script) para ver más ejemplos.
 
 ---
 
